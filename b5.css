@@ -1,0 +1,65 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+header h2{
+    background-color: #ed1a35;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top-left-radius:20px ;
+    border-top-right-radius:20px
+
+}
+.tong{
+    width: 354px;
+    height: 347px;
+    position: relative;
+}
+.tong span{
+    color: #ff8c01;
+    font-size: 20px;
+    font-weight: 500;
+}
+.tong td{
+    color: #666666;
+    border-top: 2px solid #ddd; 
+    padding-top: 10px;
+}
+.dangky{
+    background-color: #e51934;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    padding-left: 72px;
+    padding-right: 76px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: 15px;
+    font-weight: 30px;
+}
+.chitiet{
+    background-color:#ffffff;
+    color:#df1212;
+    border: 2px solid #ed1b36;
+    border-radius: 10px;
+    padding-left: 81px;
+    padding-right: 79px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    font-size: 15px;
+    font-weight: 30px;
+    margin-top: 10px;
+}
+img{
+    position: absolute;
+    left: 292px;
+    bottom: 298px;
+}
+table{
+    padding-left: 10px;
+    padding-right: 10px;
+}

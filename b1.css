@@ -1,0 +1,43 @@
+*{
+    color: #231751;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+ul{
+   list-style-type: none; 
+}
+section{
+    background-color: #eaeaea;
+}
+header{
+    font-size: 20px;
+}
+header h2:nth-child(2){   
+    margin-top: -20px;
+}
+div{
+    
+    margin-bottom: -90px
+}
+div button:nth-child(2){
+    margin-left: 20px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+div button:nth-child(1){
+    margin-left: 20px;
+    background-color: #bc2229;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: 500;
+}
+img{
+    vertical-align: middle;
+}
+/* list-style-type: none mất dấu * của ul li*/ 
